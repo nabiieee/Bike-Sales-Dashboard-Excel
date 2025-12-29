@@ -1,4 +1,4 @@
-# 🚴 Bike Sales Analysis Dashboard (Excel)
+# 🏍️ Bike Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
 This project focuses on analyzing bike sales data to understand customer demographics, purchasing behavior, and key factors influencing bike purchases. The analysis is performed entirely in **Microsoft Excel**, using data cleaning, pivot tables, and interactive dashboards to generate insights.
