@@ -73,22 +73,6 @@ The dashboard provides insights through interactive visual elements:
 
 ---
 
-## 📁 Project Structure
-Bike-Sales-Dashboard/
-│
-├── dataset/
-│ └── bike_sales_data.xlsx
-│
-├── dashboard/
-│ └── Bike_Sales_Dashboard.xlsx
-│
-├── screenshots/
-│ └── dashboard_preview.png
-│
-└── README.md
-
----
-
 ## 📊 Dashboard Preview
 ![Dashboard Preview](Bike-sales-dashboard.png)
 
